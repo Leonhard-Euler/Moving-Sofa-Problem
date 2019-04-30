@@ -14,4 +14,4 @@ Sofa Problem](http://faculty.bard.edu/belk/projects/NicoleSong.pdf)
 [A Computational Study of the Moving Sofa Problem](http://vixra.org/pdf/1411.0038v1.pdf)
 
 [Differential equations
-and exact solutions in the moving sofa problem(]https://www.math.ucdavis.edu/~romik/data/uploads/software/movingsofas-v1.3-printout.pdf)
+and exact solutions in the moving sofa problem](https://www.math.ucdavis.edu/~romik/data/uploads/software/movingsofas-v1.3-printout.pdf)
