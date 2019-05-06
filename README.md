@@ -24,7 +24,7 @@ semi_circle:
 Simulator area =  1.570786326827179
 ok
 ```
-### Some references
+# Some references
 #### Wiki:
 https://en.wikipedia.org/wiki/Moving_sofa_problem
 
