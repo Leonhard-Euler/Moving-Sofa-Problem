@@ -9,7 +9,22 @@ sudo pip3 install shapely
 sudo pip3 install unittest
 sudo apt-get install ffmpeg
 ```
-### Some references:
+# Test-Case
+```
+test_gerver (__main__.TestCouchCreation) ...
+gerver:
+Simulator.area =  2.2195225309390785
+ok
+test_hammersley (__main__.TestCouchCreation) ...
+hammersley:
+Simulator.area =  2.2074070147932088
+ok
+test_semi_circle (__main__.TestCouchCreation) ...
+semi_circle:
+Simulator area =  1.570786326827179
+ok
+```
+### Some references
 #### Wiki:
 https://en.wikipedia.org/wiki/Moving_sofa_problem
 
