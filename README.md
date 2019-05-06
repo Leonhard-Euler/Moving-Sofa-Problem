@@ -2,6 +2,9 @@
 
 ### requirements
 ```
+python3.6
+```
+```
 sudo pip3 install numpy
 sudo pip3 install matplotlib
 sudo pip3 install ffmpeg
@@ -10,6 +13,9 @@ sudo pip3 install unittest
 sudo apt-get install ffmpeg
 ```
 # Test-Case
+```
+python3 main.py
+```
 ```
 test_gerver (__main__.UnitTest) ...
 gerver:
