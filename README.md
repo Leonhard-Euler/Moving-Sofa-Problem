@@ -1,5 +1,14 @@
 # Moving-Sofa-Problem
-### Some reference:
+
+### requirements
+```
+numpy
+matplotlib
+ffmpeg
+shapely
+unittest
+```
+### Some references:
 https://en.wikipedia.org/wiki/Moving_sofa_problem
 
 https://math.stackexchange.com/questions/1787466/modelling-the-moving-sofa
