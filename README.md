@@ -2,11 +2,12 @@
 
 ### requirements
 ```
-numpy
-matplotlib
-ffmpeg
-shapely
-unittest
+sudo pip3 install numpy
+sudo pip3 install matplotlib
+sudo pip3 install ffmpeg
+sudo pip3 install shapely
+sudo pip3 install unittest
+sudo apt-get install ffmpeg
 ```
 ### Some references:
 https://en.wikipedia.org/wiki/Moving_sofa_problem
