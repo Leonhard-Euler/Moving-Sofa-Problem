@@ -30,6 +30,8 @@ semi_circle:
 Simulator area =  1.570786326827179
 ok
 ```
+# Example
+![gerver](screenshot/gerver.png)
 # Some references
 #### Wiki:
 https://en.wikipedia.org/wiki/Moving_sofa_problem
